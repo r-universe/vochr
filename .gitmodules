@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "TapeR"]
+	path = TapeR
+	url = https://github.com/vochr/taper
+	shallow = true
+	registered = true
