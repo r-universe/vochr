@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "rBDAT"]
 	path = rBDAT
 	url = https://gitlab.com/vochr/rbdat
-	shallow = true
-	registered = true
 [submodule "TapeR"]
 	path = TapeR
 	url = https://github.com/vochr/taper
-	shallow = true
-	registered = true
 [submodule "TapeS"]
 	path = TapeS
 	url = https://gitlab.com/vochr/tapes
-	shallow = true
-	registered = true
