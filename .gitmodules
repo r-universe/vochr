@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "rBDAT"]
-	path = rBDAT
-	url = https://gitlab.com/vochr/rbdat
 [submodule "TapeR"]
 	path = TapeR
 	url = https://github.com/vochr/taper
 [submodule "TapeS"]
 	path = TapeS
 	url = https://gitlab.com/vochr/tapes
+[submodule "rBDAT"]
+	path = rBDAT
+	url = https://gitlab.com/vochr/rbdat
